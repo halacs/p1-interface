@@ -1,3 +1,5 @@
+You can find my blog post [here](https://www.halacs.hu/electric-meter-reading).
+
 <img src="pictures/pcb_real_5.jpg" alt="image" width="300" height="auto">
 <img src="pictures/pcb_real_4.jpg" alt="image" width="300" height="auto">
 
